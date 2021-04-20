@@ -94,7 +94,6 @@ class _MyHomePageState extends State<MyHomePage> {
                       Text(
                         'App Developer',
                         style: TextStyle(
-                            fontStyle: FontStyle.italic,
                             color: Colors.black54,
                             fontWeight: FontWeight.bold,
                             fontSize: 24),
